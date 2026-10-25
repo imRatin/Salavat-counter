@@ -1,2 +1,2 @@
 # Salavat-counter
-makes you a better person :)
+An interesting and unnecessarily complicated way to get closer with God
